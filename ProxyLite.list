@@ -2,6 +2,7 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,dog.ssrdog.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
@@ -15,7 +16,6 @@ IP-CIDR,172.67.213.138/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,dog.ssrdog
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,dns.umbrella.com
